@@ -1,0 +1,48 @@
+*{
+		padding: 0px;
+		margin: 0px;
+	}
+	div#playBox{
+		width:980px;
+		height:600px;
+		background-color:#000;
+		margin: 50px auto;
+		position: relative;
+		overflow: hidden;
+	}
+	div#playBox .map{
+		width:980px;
+		height: 2000px;
+		position: absolute;
+		background: url("../images/bg.png") no-repeat 0 0;
+		z-index: 1;
+	}
+	#xplayer{
+		position: absolute;
+		z-index: 100;
+	}
+	a{
+		display: block;
+		position: absolute;
+		z-index: 99;
+		width:6px;
+		height:10px;
+		background-color: red;
+		border-radius: 2px;
+	}
+	#show{
+		position: absolute;
+		z-index: 101;
+	}
+	p{
+		color: red;
+		display: inline-block;
+	}
+	span{
+		display: block;
+		width:128px;
+		height:128px;
+		position: absolute;
+		z-index: 100;
+		background: url("../images/BluePlane.png") no-repeat 0 0;
+	}
