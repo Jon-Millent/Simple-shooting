@@ -1,4 +1,4 @@
 # Simple-shooting
-<h1>A very simple shooting game</h1>
+<h1>简单的飞机大战</h1>
 <strong>do you like it?</strong>
-<p>If you feel okay, just cheer for me, thank you.</p>
+<p>继续努力！</p>
